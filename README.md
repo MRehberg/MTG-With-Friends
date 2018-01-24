@@ -7,6 +7,7 @@ This project was created to keep track of MTG nights, decks, and games won betwe
 ## Built With
 * HTML/CSS
 * JavaScript
+* PHP
 
 ## Authors
 * M. Rehberg
